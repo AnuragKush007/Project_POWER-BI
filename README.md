@@ -148,15 +148,15 @@ The Power BI dashboard includes:
 
 ### Dashboard Page 1 – Sales Overview
 
-![D-Mart Sales Dashboard Overview](Dashboard_Screenshot_Page 1.png)
+![D-Mart Sales Dashboard Page 1](Dashboard_Screenshot_Page%201.png)
 
 ### Dashboard Page 2 – Sales Performance Analysis
 
-![D-Mart Sales Performance Analysis](Dashboard_Screenshot_Page 2.png)
+![D-Mart Sales Dashboard Page 2](Dashboard_Screenshot_Page%202.png)
 
 ### Dashboard Page 3 – Product and Customer Insights
 
-![D-Mart Product and Customer Insights](Dashboard_Screenshot_Page 3.png)
+![D-Mart Sales Dashboard Page 3](Dashboard_Screenshot_Page%203.png)
 
 ## Conclusion
 
